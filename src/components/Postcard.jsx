@@ -50,7 +50,7 @@ function Postcard({setStep, roseAmount}) {
           }}
         >
             <Typography variant="h5" component="h2" align='center'>
-                Вот вам пиксельный призентик!
+                Вот вам пиксельный презентик!
             </Typography>
             <Typography variant="body1" color='secondary'>
                 К сожалению я все не могу добраться до цветочного в Хабаровске <br/> 
