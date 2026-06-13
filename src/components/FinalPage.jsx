@@ -37,7 +37,7 @@ function FinalPage({setStep}){
             <Button  
                 variant='text'
                 onClick={() => setStep(1)}
-                sx={{width: '162px', padding: '0'}}
+                sx={{width: '180px', padding: '0'}}
             >
                 &#8592; Вернуться назад
             </Button>
