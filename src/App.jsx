@@ -19,7 +19,8 @@ function App() {
       backgroundColor: 'grey.700',
       width: '100%',
       minHeight: '100vh',
-      paddingBottom: '90px'
+      paddingBottom: '30px',
+      paddingTop: '60px'
     }}> 
       {
         step === 0 &&
